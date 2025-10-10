@@ -1,24 +1,40 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+# Hi there! 👋 I'm Divyansh Raj Soni
 
-## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+[![GitHub followers](https://img.shields.io/github/followers/DivyanshRajSoni?label=Followers&style=social)](https://github.com/DivyanshRajSoni)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/divyanshrajsoni)
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+## About Me
+I'm a passionate developer and technology enthusiast who loves to explore new technologies and build innovative solutions. Welcome to my GitHub profile!
 
-## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+### What I'm About
+- 🚀 Constantly learning and growing in the tech world
+- � Interested in problem-solving and creative coding
+- 🤝 Open to collaborating on interesting projects
+- � Lifelong learner
 
-## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+## Skills
+### Programming Languages
+- Python 🐍
+- JavaScript 💻
+- Java ☕
+- C++ 🔧
+
+### Technologies & Tools
+- Web Development (HTML, CSS, React)
+- Database Management (SQL, MongoDB)
+- Git & GitHub
+- VS Code
+- Docker �
+
+## Projects
+I'm working on building my project portfolio. Stay tuned for exciting projects that showcase my skills and creativity!
+
+## Connect With Me
+Feel free to reach out if you want to collaborate on a project or just want to chat about technology!
+
+- 📧 Email: divyanshrajsoni@gmail.com
+- 💼 LinkedIn: [Divyansh Raj Soni](https://www.linkedin.com/in/divyanshrajsoni)
+- 🐦 Twitter: [@DivyanshRSoni](https://twitter.com/DivyanshRSoni)
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
