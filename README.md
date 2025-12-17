@@ -51,7 +51,7 @@ From **AI-powered applications 🤖** to **backend APIs ⚙️** and **interacti
 - 🌶️ Flask
 - 🐙 Git & GitHub
 - 📄 NDJSON
-- 🔗 API Integrations (USDA API)
+- 🔗 API Integrations (USDA API, Gemini API)
 - 🔐 Security (CORS, Helmet, Morgan)
 
 ---
@@ -113,7 +113,7 @@ From **AI-powered applications 🤖** to **backend APIs ⚙️** and **interacti
 
 ## 🤝📬 Connect With Me
 
-📧 Email: **divyanshrajsoni@gmail.com**  
+📧 Email: **varunsoni01062004@gmail.com**  
 💼 LinkedIn: [Divyansh Raj Soni](https://www.linkedin.com/in/divyanshrajsoni)  
 🐦 Twitter/X: [@DivyanshRSoni](https://twitter.com/DivyanshRSoni)
 
