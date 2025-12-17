@@ -20,6 +20,7 @@ From **AI-powered applications 🤖** to **backend APIs ⚙️** and **interacti
 ## 🛠️💻 Skills (Based on Real Projects)
 
 ### 🔤 Programming Languages
+- ✨ C++
 - 🟨 JavaScript
 - 🐍 Python
 - 🌐 HTML, CSS
